@@ -29,4 +29,6 @@ Version : 0.5
 6. 考虑C++的实现版本。
 
 
-作者归Jerry Shen所有，这里只是整理为idea项目。
+作者归Jerry Shen所有，这里只是整理为idea项目。  
+整理提交为idea下一个project。不需要提交.idea目录和.iml项目文件。签出时idea会智能判断出23个独立的module。  
+
